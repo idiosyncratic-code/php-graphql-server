@@ -10,7 +10,7 @@
   "require": {
     "php": ">=8.2",
     "psr/http-factory": "^1.0",
-    "thecodingmachine/safe": "^2.5",
+    "thecodingmachine/safe": "^3.0",
     "webonyx/graphql-php": "^15.18"
   },
   "autoload": {
